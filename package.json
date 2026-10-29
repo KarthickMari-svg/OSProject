@@ -1,0 +1,12 @@
+{
+  "name": "osplugin",
+  "version": "1.0.0",
+  "description": "This is custom cordova plugin using in OS",
+  "license": "ISC",
+  "author": "grv",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
